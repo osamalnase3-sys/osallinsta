@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 531,
-  "latestVersionName": "5.31",
+  "latestVersionCode": 2,
+  "latestVersionName": "5.30",
   "downloadUrl": "https://osaly.kesug.com/",
   "forceUpdate": true,
-  "messageVersion": "5.31",
+  "messageVersion": "5.30",
   "message": "تم إصدار تحديث جديد!\n\nالميزات الجديدة:\n- إصلاح مشاكل التحميل\n- تحسين الأداء\n- إضافة ميزات جديدة",
   "showIntervalHours": 24
 }
